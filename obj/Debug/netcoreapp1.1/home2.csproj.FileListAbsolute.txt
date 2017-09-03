@@ -1,0 +1,8 @@
+/Users/bodiekeys/Desktop/home2/bin/Debug/netcoreapp1.1/home2.deps.json
+/Users/bodiekeys/Desktop/home2/bin/Debug/netcoreapp1.1/home2.runtimeconfig.json
+/Users/bodiekeys/Desktop/home2/bin/Debug/netcoreapp1.1/home2.runtimeconfig.dev.json
+/Users/bodiekeys/Desktop/home2/bin/Debug/netcoreapp1.1/home2.dll
+/Users/bodiekeys/Desktop/home2/bin/Debug/netcoreapp1.1/home2.pdb
+/Users/bodiekeys/Desktop/home2/obj/Debug/netcoreapp1.1/home2.AssemblyInfo.cs
+/Users/bodiekeys/Desktop/home2/obj/Debug/netcoreapp1.1/home2.dll
+/Users/bodiekeys/Desktop/home2/obj/Debug/netcoreapp1.1/home2.pdb
